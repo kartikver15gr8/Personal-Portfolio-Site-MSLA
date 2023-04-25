@@ -44,8 +44,7 @@ const projectList = [
   },
   {
     title: "Disney+ Hotstar Clone",
-    description:
-      "Made a Disney+ Hotstar Clone web app, using frontend fundamentals!",
+    description: "Made a Disney+ Hotstar Clone web app, using frontend fundamentals!",
     url: "https://github.com/kartikver15gr8/Disne-Hotstar-UI-Clonee",
   },
 ];
