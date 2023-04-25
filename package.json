@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{kartikver15gr8}.github.io/{Personal-Portfolio-Site-MSLA}'",
+    "build-gh": "parcel build --public-url 'https://kartikver15gr8.github.io/{Personal-Portfolio-Site-MSLA}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
