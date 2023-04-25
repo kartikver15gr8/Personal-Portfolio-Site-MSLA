@@ -50,6 +50,7 @@ h1 {
   font-size: 7rem;
   font-weight: 400;
   line-height: 0.8;
+  color:rgb(204, 204, 204);
   margin: 0;
 }
 
@@ -58,6 +59,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+  color: goldenrod;
 }
 
 h3 {

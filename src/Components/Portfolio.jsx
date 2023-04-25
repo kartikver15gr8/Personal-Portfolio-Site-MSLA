@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Developer3.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Truck Safety System using Arduino and full-stack 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Ourteam showcased this project in Smart India Hackathon. The major concern was to minimize accidents caused by truck overloading. We used Arduino Uno board, NodeMCU, and other sensors to ensure properloading of truck, and made a web application that shows real-time data of truck like, the weight and etc, and wheneverthe weight carried by truck exceeds the limit, our system fires an alert to the respective authorities.",
+    url: "https://github.com/kartikver15gr8/Smart-India-Hackathon-Project",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Smart Contract for Transaction using e-Wallet",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I made this project that lets you send and receive Ethers. the amount you send via contract get converted into USD. I used Solidity language to write this contract and this was my first project in solidity language",
+    url: "https://github.com/kartikver15gr8/Learn-Solidity-with-me/blob/main/Transaction.sol",
   },
   {
-    title: "My Resume Site",
+    title: "Disney+ Hotstar Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Made a Disney+ Hotstar Clone web app, using frontend fundamentals!",
+    url: "https://github.com/kartikver15gr8/Disne-Hotstar-UI-Clonee",
   },
 ];
 
