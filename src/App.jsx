@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "kartikver15gr8",
   instagram: "kartikeyverma.eth",
   linkedIn: "kartikey-verma-7a372b20b/",
-  Hashnode: "https://kartikeyverma.hashnode.dev/",
+  Hashnode: "kartikeyverma.hashnode.dev/",
   twitter: "KartikeyStack",
   youTube: "UC4dAGh3yMYVrssxckcSsTYg",
 };
