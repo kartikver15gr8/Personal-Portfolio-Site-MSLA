@@ -27,12 +27,12 @@ const siteProps = {
   name: "Kartikey Verma",
   title: "WEB3 Enthusiast & Open-source Advocate",
   email: "vermakartikey786@gmail.com",
-  gitHub: "https://github.com/kartikver15gr8",
-  instagram: "@kartikeyverma.eth",
-  linkedIn: "https://www.linkedin.com/in/kartikey-verma-7a372b20b/",
+  gitHub: "kartikver15gr8",
+  instagram: "kartikeyverma.eth",
+  linkedIn: "kartikey-verma-7a372b20b/",
   Hashnode: "https://kartikeyverma.hashnode.dev/",
-  twitter: "@KartikeyStack",
-  youTube: "https://www.youtube.com/channel/UC4dAGh3yMYVrssxckcSsTYg",
+  twitter: "KartikeyStack",
+  youTube: "UC4dAGh3yMYVrssxckcSsTYg",
 };
 
 const primaryColor = "#4E567E";
